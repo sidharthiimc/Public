@@ -1,2 +1,2 @@
-# Kaggle Notebooks
- My collections of kaggle
+# Kaggle Notebooks and py for 
+https://www.kaggle.com/c/ieee-fraud-detection
